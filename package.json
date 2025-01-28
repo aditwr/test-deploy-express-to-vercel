@@ -2,9 +2,7 @@
   "name": "new-express-project",
   "version": "1.0.0",
   "main": "index.js",
-  "scripts": {
-    "start": "node ./api/index.js"
-  },
+  "scripts": {},
   "keywords": [],
   "author": "",
   "license": "ISC",
